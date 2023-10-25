@@ -6,3 +6,4 @@ fff
 [Author](author.md)
 ## Some new section here
 ## Conflict
+## Conflict2
