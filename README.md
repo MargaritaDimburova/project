@@ -4,3 +4,4 @@ This is awesome project.
 fff
 ## Author
 [Author](author.md)
+## Conflict
